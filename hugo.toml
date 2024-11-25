@@ -1,0 +1,79 @@
+baseURL = 'https://ignativssss.github.io/'
+languageCode = 'zh-cn'
+title = '豚骨拉面馆🍜'
+theme = "PaperMod"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+avatar = "🍜"
+name = "豚骨拉面馆馆长"
+bio = "杂食家政女王，爱逛超市"
+busuanzi = {enable = true}
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+
+    # 子菜单项 - 示例的标签或分类
+    [[menu.main]]
+      parent = "home"   # 设置为首页的子菜单
+      identifier = "厨房故事"
+      name = "厨房故事"
+      url = "/tags/厨房故事/"
+      weight = 1
+
+    [[menu.main]]
+      parent = "home"
+      identifier = "生活杂记"
+      name = "生活杂记"
+      url = "/tags/生活杂记/"
+      weight = 2
+
+    [[menu.main]]
+      parent = "home"
+      identifier = "月度读书"
+      name = "月度读书"
+      url = "/tags/月度读书/"
+      weight = 3
+
+    [[menu.main]]
+      parent = "home"
+      identifier = "买买买"
+      name = "买买买"
+      url = "/tags/买买买/"
+      weight = 4
+      
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我"
+    url = "/about/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "friends"
+    name = "友链"
+    url = "/friends/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 6
