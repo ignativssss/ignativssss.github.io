@@ -1,0 +1,124 @@
+.main {
+    position: relative;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height));
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+    margin: auto;
+    padding: var(--gap);
+}
+
+.page-header h1 {
+    font-size: 40px;
+}
+
+.pagination {
+    display: flex;
+}
+
+.pagination a {
+    color: var(--theme);
+    font-size: 13px;
+    line-height: 36px;
+    background: var(--primary);
+    border-radius: calc(36px / 2);
+    padding: 0 16px;
+}
+
+.pagination .next {
+    margin-inline-start: auto;
+}
+
+
+.social-icons a {
+    display: inline-flex;
+    padding: 10px;
+}
+
+.social-icons a svg {
+    height: 26px;
+    width: 26px;
+}
+
+code {
+    direction: ltr;
+}
+
+div.highlight,
+pre {
+    position: relative;
+}
+
+.copy-code {
+    display: none;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    color: rgba(255, 255, 255, 0.8);
+    background: rgba(78, 78, 78, 0.8);
+    border-radius: var(--radius);
+    padding: 0 5px;
+    font-size: 14px;
+    user-select: none;
+}
+
+div.highlight:hover .copy-code,
+pre:hover .copy-code {
+    display: block;
+}
+
+.welcome-section {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    border-radius: 8px;;
+  }
+  
+  .welcome-section h1 {
+    font-size: 2em;
+    color: var(--primary);
+    margin-bottom: 10px;
+  }
+  
+  .welcome-section p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .welcome-section audio {
+    margin: 10px 0;
+  }
+  
+  .rss-info {
+    margin-top: 15px;
+    font-size: 1em;
+    background-color: #d7d7d750;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    color: var(--primary);
+  }
+
+  .rss-info a {
+    font-weight: bold;
+    color: #33b866; /* 自定义链接颜色 */
+    text-decoration: none;
+  }
+  
+  .rss-info a:hover {
+    text-decoration: underline;
+  }
+
+/* 暗模式支持 */
+@media (prefers-color-scheme: dark) {
+    .rss-info {
+        background-color: #ffffff; /* 暗色模式背景颜色 */
+        color: #ddd; /* 暗色模式文字颜色 */
+    }
+
+    .rss-info a {
+        color: #77d2a2; /* 暗色模式链接颜色 */
+    }
+
+    .rss-info a:hover {
+        text-decoration: underline;
+        color: #9fe3bf; /* 暗色模式悬停颜色 */
+    }
+}
