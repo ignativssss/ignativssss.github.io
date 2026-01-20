@@ -1,0 +1,160 @@
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: calc(var(--nav-width) + var(--gap) * 2);
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    line-height: var(--header-height);
+}
+
+.nav a {
+    display: block;
+}
+
+.logo,
+#menu {
+    display: flex;
+    margin: auto var(--gap);
+}
+
+.logo {
+    flex-wrap: inherit;
+}
+
+.logo a {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.logo a img, .logo a svg {
+    display: inline;
+    vertical-align: middle;
+    pointer-events: none;
+    transform: translate(0, -10%);
+    border-radius: 6px;
+    margin-inline-end: 8px;
+}
+
+button#theme-toggle {
+    font-size: 26px;
+    margin: auto 4px;
+}
+
+body.dark #moon {
+    vertical-align: middle;
+    display: none;
+}
+
+body:not(.dark) #sun {
+    display: none;
+}
+
+/* 主菜单项 */
+#menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+#menu li {
+    position: relative;
+}
+
+/* 隐藏子菜单 */
+#menu .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    padding: 0px 0;
+    list-style-type: none;
+    min-width: 100px;
+    z-index: 1000;
+}
+
+/* 当悬停在主菜单项时显示子菜单 */
+#menu li:hover .submenu {
+    display: block;
+}
+
+/* 子菜单项样式 */
+#menu .submenu li {
+    padding: 3px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+#menu .submenu a {
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    display: block;
+}
+
+#menu .submenu a:hover {
+    background-color: transparent;
+    color: #33b866;
+}
+
+/* 主菜单项和激活项的样式 */
+#menu a {
+    color: #333;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#menu a.active {
+    font-weight: bold;
+    color: #33b866; /* 你可以选择一个你喜欢的颜色 */
+}
+
+/* 鼠标悬停时变为绿色 */
+#menu a:hover {
+    color: #33b866;
+}
+
+
+body.dark #menu a {
+    color: #f3f3f3;
+}
+
+body.dark #menu a:hover {
+    color: #33b866;
+}
+
+body.dark #menu .submenu a {
+    color: #333;
+}
+
+body.dark #menu .submenu a:hover {
+    color: #33b866;
+}
+
+
+
+.lang-switch li,
+.lang-switch ul,
+.logo-switches {
+    display: inline-flex;
+    margin: auto 4px;
+}
+
+.lang-switch {
+    display: flex;
+    flex-wrap: inherit;
+}
+
+.lang-switch a {
+    margin: auto 3px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.logo-switches {
+    flex-wrap: inherit;
+}
