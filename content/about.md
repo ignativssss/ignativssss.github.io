@@ -1,7 +1,7 @@
 +++
 title = '关于'
 auther = "豚骨拉面馆馆长"
-draft = true
+draft = false
 hidePostNav = true
 +++
 欢迎来店里。(｀･ω･´)ゞ

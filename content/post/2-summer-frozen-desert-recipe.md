@@ -5,7 +5,7 @@ auther = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 ShowReadingTime = true
 ShowWordCount = true
-draft = true
+draft = false
 ShowToc = true  # 显示目录
 TocOpen = true  # 可选：目录是否默认展开
 +++

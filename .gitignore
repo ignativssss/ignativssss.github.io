@@ -1,0 +1,13 @@
+# 静态网页生成目录（由 GitHub Actions 自动生成，本地不需要上传）
+public/
+
+# Hugo 运行时的临时资源目录
+resources/
+.hugo_build.lock
+
+# 操作系统产生的临时文件
+.DS_Store
+Thumbs.db
+
+# 如果你以后使用本地环境变量
+.env

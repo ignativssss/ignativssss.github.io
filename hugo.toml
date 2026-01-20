@@ -1,4 +1,4 @@
-baseURL = 'https://ignativssss.github.io/'
+baseURL = 'https://ignativssss.com/'
 languageCode = 'zh-cn'
 title = '豚骨拉面馆🍜'
 theme = "PaperMod"
@@ -77,3 +77,7 @@ busuanzi = {enable = true}
     name = "搜索"
     url = "/search/"
     weight = 6
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":fileModTime", "date"]
