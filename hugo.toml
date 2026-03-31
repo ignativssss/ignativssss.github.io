@@ -2,6 +2,8 @@ baseURL = 'https://ignativssss.com/'
 languageCode = 'zh-cn'
 title = '豚骨拉面馆🍜'
 theme = "PaperMod"
+publishFuture = true
+mainSections = ["post"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
