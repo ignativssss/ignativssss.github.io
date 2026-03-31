@@ -3,6 +3,7 @@ languageCode = 'zh-cn'
 title = '豚骨拉面馆🍜'
 theme = "PaperMod"
 publishFuture = true
+contentDir = "content"
 mainSections = ["post"]
 
 [outputs]
