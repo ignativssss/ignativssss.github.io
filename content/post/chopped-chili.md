@@ -1,7 +1,7 @@
 +++
 title = '🌶️剁辣椒，随身携带家乡味'
 date = 2023-08-25T13:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

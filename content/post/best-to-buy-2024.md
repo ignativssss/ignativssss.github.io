@@ -1,7 +1,7 @@
 +++
 title = '🛍️2024买了啥大大大盘点'
 date = 2024-12-30T17:47:18+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["买买买"]
 ShowReadingTime = true
 ShowWordCount = true

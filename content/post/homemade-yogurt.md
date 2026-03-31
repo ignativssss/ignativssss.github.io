@@ -1,7 +1,7 @@
 +++
 title = '🥣Homemade Yogurt，四舍五入就是希腊酸奶！'
 date = 2023-05-21T09:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

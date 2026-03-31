@@ -1,7 +1,7 @@
 +++
 title = '🕰️我的阅读进化时间线'
 date = 2021-02-17T21:39:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

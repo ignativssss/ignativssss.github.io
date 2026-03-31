@@ -1,7 +1,7 @@
 +++
 title = '📈保持进展又短暂回归日常'
 date = 2024-07-01T17:31:30+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

@@ -1,7 +1,7 @@
 +++
 title = '我在B站学游泳'
 date = 2019-08-28T17:31:30+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

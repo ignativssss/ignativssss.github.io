@@ -1,7 +1,7 @@
 +++
 title = '🍲豪华一大碗——开胃解馋泡椒米线'
 date = 2023-07-15T13:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

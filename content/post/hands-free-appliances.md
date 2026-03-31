@@ -1,7 +1,7 @@
 +++
 title = '🤖放弃内心挣扎，用机器解放双手'
 date = 2024-07-13T17:31:30+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

@@ -1,7 +1,7 @@
 +++
 title = '🍔向美味汉堡和英式麦芬自由进发'
 date = 2022-10-20T09:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

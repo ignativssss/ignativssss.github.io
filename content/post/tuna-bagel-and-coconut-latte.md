@@ -1,7 +1,7 @@
 +++
 title = '🥯贝果001：金枪鱼贝果配生椰拿铁，本周的最佳早餐搭配'
 date = 2022-05-14T09:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

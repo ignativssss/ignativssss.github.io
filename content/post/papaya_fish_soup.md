@@ -1,7 +1,7 @@
 +++
 title = '🐟木瓜鱼汤'
 date = 2025-07-23T13:17:41+10:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

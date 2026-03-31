@@ -1,7 +1,7 @@
 +++
 title = '🍵突击抹茶粉研究'
 date = 2025-07-27T21:43:56+10:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["买买买"]
 draft = false
 ShowReadingTime = true

@@ -1,7 +1,7 @@
 +++
 title = '🍲实现小锅米线自由'
 date = 2022-05-03T09:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

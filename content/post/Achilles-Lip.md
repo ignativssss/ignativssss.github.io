@@ -1,7 +1,7 @@
 +++
 title = '👄阿喀琉斯之唇'
 date = 2025-02-22T17:40:35+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

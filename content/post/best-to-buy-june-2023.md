@@ -1,7 +1,7 @@
 +++
 title = '🛍️6月满意购物'
 date = 2023-06-30T20:16:16+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["买买买"]
 draft = false
 ShowReadingTime = true

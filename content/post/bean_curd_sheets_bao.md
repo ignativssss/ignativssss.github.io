@@ -1,7 +1,7 @@
 +++
 title = '🥟解两年前的馋，豆皮包子'
 date = 2024-12-09T15:47:18+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 ShowReadingTime = true
 ShowWordCount = true

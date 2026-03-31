@@ -1,7 +1,7 @@
 +++
 title = '🛍️2021最近买了啥？'
 date = 2021-07-11T17:16:16+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["买买买"]
 draft = false
 ShowReadingTime = true

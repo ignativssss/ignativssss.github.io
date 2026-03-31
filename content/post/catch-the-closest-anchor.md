@@ -1,7 +1,7 @@
 +++
 title = '⚓️抓住最近的锚'
 date = 2024-08-05T21:39:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

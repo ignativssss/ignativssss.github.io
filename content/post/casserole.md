@@ -1,7 +1,7 @@
 +++
 title = '🍲砂锅大上分！普宁豆酱蒸鸡配冬菜肉末冻豆腐汤'
 date = 2023-12-03T13:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

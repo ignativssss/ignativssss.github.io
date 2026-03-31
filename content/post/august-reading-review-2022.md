@@ -1,7 +1,7 @@
 +++
 title = '📖8月读书总结'
 date = 2022-08-31T12:21:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["月度读书"]
 draft = false
 ShowReadingTime = true

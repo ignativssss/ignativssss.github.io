@@ -1,7 +1,7 @@
 +++
 title = '🫕砂锅能力完全体现！万物皆可啫'
 date = 2023-06-30T13:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

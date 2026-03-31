@@ -1,7 +1,7 @@
 +++
 title = '🎋6月挑战:包粽子'
 date = 2024-06-21T13:19:13+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

@@ -1,6 +1,6 @@
 +++
 title = '亲爱的网上邻居'
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 draft = false
 hidePostNav = true
 +++

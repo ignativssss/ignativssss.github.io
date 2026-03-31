@@ -1,7 +1,7 @@
 +++
 title = '🌅没被疫情绑架，我是主动选择早起的'
 date = 2022-05-14T17:31:30+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

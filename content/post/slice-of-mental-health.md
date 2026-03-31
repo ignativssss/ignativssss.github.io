@@ -1,7 +1,7 @@
 +++
 title = '🧠最近的精神琐碎'
 date = 2022-06-01T17:31:30+11:00
-auther = "豚骨拉面馆馆长"
+author = "豚骨拉面馆馆长"
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true
