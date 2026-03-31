@@ -81,3 +81,6 @@ busuanzi = {enable = true}
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   lastmod = ["lastmod", ":fileModTime", "date"]
+
+[markup.goldmark.renderer]
+  unsafe = true

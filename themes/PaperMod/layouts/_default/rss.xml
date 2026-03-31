@@ -7,10 +7,13 @@
     {{- end }}
   {{- end }}
 {{- else }}
-  {{- with site.Author.email }}
-    {{- $authorEmail = . }}
-    {{- warnf "The author key in site configuration is deprecated. Use params.author.email instead." }}
-  {{- end }}
+  {{- with site.Author -}}
+    {{- if reflect.IsMap . -}}
+      <author>{{ .email }} ({{ .name }})</author>
+    {{- else -}}
+      <author>{{ . }}</author>
+    {{- end -}}
+  {{- end -}}
 {{- end }}
 
 {{- /* Deprecate site.Author.name in favor of site.Params.author.name */}}
