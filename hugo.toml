@@ -12,7 +12,7 @@ contentDir = "content"
 avatar = "🍜"
 name = "豚骨拉面馆馆长"
 bio = "杂食家政女王，爱逛超市"
-busuanzi = {enable = true}
+busuanzi = {enable = false}
 mainSections = ["post"]
 publishFuture = true
 
