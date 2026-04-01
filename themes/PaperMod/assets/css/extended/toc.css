@@ -85,7 +85,57 @@
 .toc li a:hover {
     color: #33b866;
 }
+/* 手机端 UI 最终方案：Logo 居左，菜单居中，拒绝竖排字 */
+@media screen and (max-width: 768px) {
+    /* 1. 导航容器：纵向排列，整体靠左对齐 */
+    .nav {
+        display: flex !important;
+        flex-direction: column !important; 
+        align-items: flex-start !important; /* 强制所有子项（Logo）初始靠左 */
+        padding: 10px 15px !important;
+    }
 
+    /* 2. Logo 区域：明确居左，不许换行 */
+    .logo {
+        margin: 0 0 12px 0 !important; /* 下方留出间距 */
+        text-align: left !important;
+        width: 100% !important;
+    }
+
+    .logo a {
+        font-size: 22px !important;
+        white-space: nowrap !important;
+    }
+
+    /* 3. 菜单容器 (#menu)：强制内容在内部居中 */
+    #menu {
+        display: flex !important;
+        flex-wrap: wrap !important;       /* 空间不够自动换行 */
+        justify-content: center !important; /* 核心：让所有 Tab 在这一行内居中 */
+        align-items: center !important;
+        gap: 8px 12px !important;         /* 压缩间距，上下 8px，左右 12px */
+        margin: 0 !important;
+        padding: 5px 0 !important;
+        width: 100% !important;           /* 撑满宽度以便实现居中 */
+        list-style: none !important;
+    }
+
+    /* 4. 每个菜单项 (li)：消除边距，由 gap 统一控制 */
+    #menu li {
+        margin: 0 !important;
+        padding: 0 !important;
+        flex: 0 0 auto !important;
+    }
+
+    /* 5. 链接文字 (a)：拒绝竖排，字号适中 */
+    #menu a {
+        display: inline-block !important;
+        white-space: nowrap !important;   /* 核心：死命令，两个字必须横着 */
+        font-size: 15px !important;       /* 15px 在手机端阅读感最好 */
+        letter-spacing: -0.3px !important;
+        padding: 4px 2px !important;
+    }
+}
 
 /* 小屏幕适配：目录移到标题下，正文上 */
 @media screen and (max-width: 768px) {
