@@ -4,7 +4,6 @@ title = '豚骨拉面馆🍜'
 theme = "PaperMod"
 publishFuture = true
 contentDir = "content"
-mainSections = ["post"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -15,6 +14,7 @@ name = "豚骨拉面馆馆长"
 bio = "杂食家政女王，爱逛超市"
 busuanzi = {enable = true}
 mainSections = ["post"]
+publishFuture = true
 
 [menu]
   [[menu.main]]
