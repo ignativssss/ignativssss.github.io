@@ -1,7 +1,7 @@
 +++
 title = '🥗清空冰箱计划沙拉碗'
 date = 2024-12-19T14:01:43+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 ShowReadingTime = true
 ShowWordCount = true

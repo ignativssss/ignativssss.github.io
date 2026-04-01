@@ -1,7 +1,7 @@
 +++
 title = '🥔老板娘洋芋（加茴香版）'
 date = 2024-07-17T09:19:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

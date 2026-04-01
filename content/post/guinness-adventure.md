@@ -1,7 +1,7 @@
 +++
 title = '🐍吉尼斯奇遇'
 date = 2023-04-12T17:31:30+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

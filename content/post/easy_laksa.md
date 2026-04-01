@@ -1,7 +1,7 @@
 +++
 title = '🍜叻沙粉，暂无出游打算'
 date = 2023-05-01T09:19:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

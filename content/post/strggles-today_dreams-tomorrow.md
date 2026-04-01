@@ -1,7 +1,7 @@
 +++
 title = '🔖3/4:水深火热的现在和热切盼望的美好未来'
 date = 2025-10-06T17:45:53+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 ShowReadingTime = true
 ShowWordCount = true

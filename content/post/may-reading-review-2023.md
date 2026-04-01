@@ -1,7 +1,7 @@
 +++
 title = '📖5月读书报告'
 date = 2023-05-31T12:21:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["月度读书"]
 draft = false
 ShowReadingTime = true

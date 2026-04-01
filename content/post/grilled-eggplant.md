@@ -1,7 +1,7 @@
 +++
 title = '🍆美味糊弄便当，蒲烧茄子饭'
 date = 2022-05-15T09:19:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

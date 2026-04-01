@@ -1,7 +1,7 @@
 +++
 title = '👻6,5,30 & 专注也要防沉迷'
 date = 2025-02-02T21:23:34+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

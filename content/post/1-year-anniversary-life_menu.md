@@ -1,7 +1,7 @@
 +++
 title = '🔖1/4:人生新MENU & 搬家周年'
 date = 2025-04-04T11:25:14+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

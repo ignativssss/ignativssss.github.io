@@ -1,7 +1,7 @@
 +++
 title = '🏠在旋律里流浪，在节奏中安家'
 date = 2024-12-27T09:54:43+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 ShowReadingTime = true
 ShowWordCount = true

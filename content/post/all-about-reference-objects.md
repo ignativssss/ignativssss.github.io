@@ -1,7 +1,7 @@
 +++
 title = '🔖1/2:参照物很重要'
 date = 2025-08-04T10:10:38+10:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

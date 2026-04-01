@@ -1,6 +1,6 @@
 +++
 title = '天涯若比邻'
-author = "豚骨拉面馆馆长"
+ 
 draft = false
 hidePostNav = true
 +++

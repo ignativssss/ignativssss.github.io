@@ -1,7 +1,7 @@
 +++
 title = '📖7-10月读书总结'
 date = 2021-10-31T21:39:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["月度读书"]
 draft = false
 ShowReadingTime = true

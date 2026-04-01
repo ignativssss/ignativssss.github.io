@@ -1,7 +1,7 @@
 +++
 title = '🍲虾蟹干贝砂锅粥'
 date = 2023-11-26T13:19:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

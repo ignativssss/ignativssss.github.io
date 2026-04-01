@@ -1,7 +1,7 @@
 +++
 title = '📖11、12月在阅读状况之外'
 date = 2022-12-29T12:21:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["月度读书"]
 draft = false
 ShowReadingTime = true

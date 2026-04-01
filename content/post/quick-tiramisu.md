@@ -1,7 +1,7 @@
 +++
 title = '🍰再忙也要吃点甜！20分钟提拉米苏'
 date = 2023-11-19T13:19:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

@@ -1,7 +1,7 @@
 +++
 title = '🍲2022火锅探索报告001'
 date = 2022-08-21T21:39:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true

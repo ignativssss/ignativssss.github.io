@@ -1,7 +1,7 @@
 +++
 title = '⚖️人生的能力守恒定律'
 date = 2024-06-25T17:31:30+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

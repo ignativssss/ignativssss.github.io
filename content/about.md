@@ -1,6 +1,6 @@
 +++
 title = '关于'
-author = "豚骨拉面馆馆长"
+ 
 draft = false
 hidePostNav = true
 +++

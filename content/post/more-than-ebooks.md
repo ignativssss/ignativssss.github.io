@@ -1,7 +1,7 @@
 +++
 title = '📚我的书籍阅读形式——阅读不止于电子书'
 date = 2021-03-14T21:39:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["生活杂记"]
 draft = false
 ShowReadingTime = true

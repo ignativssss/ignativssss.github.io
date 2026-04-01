@@ -1,7 +1,7 @@
 +++
 title = '🍧用意外发现迎接夏天，两个绞肉机甜品'
 date = 2023-05-14T09:19:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 ShowReadingTime = true
 ShowWordCount = true

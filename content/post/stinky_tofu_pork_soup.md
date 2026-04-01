@@ -1,7 +1,7 @@
 +++
 title = '🙊金陵双臭锅，没吃过但还是做了'
 date = 2023-04-30T09:19:13+11:00
-author = "豚骨拉面馆馆长"
+ 
 tags = ["厨房故事"]
 draft = false
 ShowReadingTime = true
