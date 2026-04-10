@@ -1,7 +1,7 @@
 +++
 title = '🧖🏻‍♀️用上了就离不开了，3月好东西'
 date = 2026-04-10T17:59:20+10:00
-tags = ["生活杂记"]
+tags = ["买买买"]
 ShowReadingTime = true
 ShowWordCount = true
 draft = false
