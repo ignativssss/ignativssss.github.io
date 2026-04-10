@@ -11,7 +11,7 @@ TocOpen = true  # 可选：目录是否默认展开
 
 三月的消费大头都围绕家居生活展开，真的可以说是买空钱包💔，最让我们觉得满意的提名应该是：IKEA的SKOGSSALLAT bath robe。
 
-![3月买买买]([https://i.postimg.cc/MKThGTbn/8a4ca772-04ab-475f-8aa1-255db8d4ed87.png](https://i.postimg.cc/Y9PZ3gRG/2026-3mai-mai-mai.png))
+![3月买买买](https://i.postimg.cc/MKThGTbn/8a4ca772-04ab-475f-8aa1-255db8d4ed87.png)
 
 ## IKEA Bath Robe
 
