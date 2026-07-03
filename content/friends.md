@@ -7,6 +7,7 @@ hidePostNav = true
 [嘰嘰乞乞](https://www.gigigatgat.ca)、
 [椒盐豆豉](https://blog.douchi.space)、
 [第三夏尔](https://thirdshire.com)、
+[两人森林｜猫猫文学](https://blackcatmeiqiu.blogspot.com/)、
 
 
 **欢迎大家和我交换链接！！**
