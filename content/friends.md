@@ -8,6 +8,7 @@ hidePostNav = true
 [椒盐豆豉](https://blog.douchi.space)、
 [第三夏尔](https://thirdshire.com)、
 [两人森林｜猫猫文学](https://blackcatmeiqiu.blogspot.com/)、
+[独居日记](https://shioriblog.org)、
 
 
 **欢迎大家和我交换链接！！**
